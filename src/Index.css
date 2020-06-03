@@ -1,0 +1,61 @@
+body {
+    background-color: darkslateblue;
+    padding: 20px;
+    margin: 0;
+  }
+  h1, h2, p, ul, li {
+    font-family: Raleway;
+  }
+  ul.header li {
+    display: inline;
+    list-style-type: none;
+    margin: 0;
+  }
+  ul.header {
+    background-color: #111;
+    padding: 0;
+  }
+  ul.header li a {
+    color: #FFF;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 20px;
+    display: inline-block;
+  }
+  .content {
+    background-color: #FFF;
+    padding: 20px;
+  }
+  .content h2 {
+    padding: 0;
+    margin: 0;
+  }
+  .content li {
+    margin-bottom: 10px;
+  }
+
+.active {
+    background-color: steelBlue;
+  }
+
+.Main {
+    background-color: lightsteelblue;
+}
+
+.HomePage {
+  background-color: lightsteelblue;
+  font-family: raleway;
+  text-align: center;
+}
+
+.DonatePage {
+  background-color: lightsteelblue;
+  font-family: raleway;
+  text-align: center;
+}
+
+.ContactPage {
+  background-color: lightsteelblue;
+  font-family: raleway;
+  text-align: center;
+}
